@@ -56,9 +56,9 @@ Hosted on [Netlify](https://www.netlify.com/).
 
 ## Credits
 
-Designed and developed by [Your Name].
+Designed and developed by Zay.
 Music: "Luminary" by Joel Sunny. Fonts: Google Fonts.
 
 ## License
 
-© 2026 [Your Name]. All rights reserved.
+© 2026 Zay. All rights reserved.
